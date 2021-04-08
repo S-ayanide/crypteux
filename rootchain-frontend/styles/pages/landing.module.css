@@ -1,0 +1,114 @@
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.discoverHeader {
+  height: 10vh;
+  background-color: #eff2f5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.discoverHeaderTitle {
+  color: #4663ac;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.branches__icon {
+  margin-right: 5px;
+}
+
+.discoverHeaderButtons {
+  color: #4663ac;
+  font-size: 20px;
+  font-weight: 500;
+  width: 20vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cover {
+  background-color: #eff2f5;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 2s;
+}
+
+.row {
+  width: 100%;
+  margin-bottom: 50px;
+  padding: 0 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.row__cards {
+  padding: 50px;
+}
+
+.cover__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  font-size: 90px;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.copyright {
+  font-size: 40px;
+}
+
+.subtitle {
+  font-size: 30px;
+  font-weight: 300;
+  color: #484848;
+}
+
+.oauth__button {
+  margin-top: 1rem;
+  width: 40%;
+  background-color: #4663ac;
+  border-radius: 50px;
+  border: 1px solid #374d86;
+  color: white;
+}
+
+.features {
+  background-color: white;
+}
+
+.feature__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-items: center;
+  padding: 50px 50px;
+}
+
+.feature__img {
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.feature__item h1 {
+  color: #484848;
+  font-size: 30px;
+  font-weight: 400;
+}

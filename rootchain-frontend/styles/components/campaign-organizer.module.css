@@ -1,0 +1,41 @@
+.root {
+  padding: 10px 50px;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.subheading {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.organizer__image {
+  border-radius: 50%;
+  border: 1px solid lightgrey;
+  margin-bottom: 25px;
+}
+
+.missing__bio {
+  color: grey;
+  font-style: italic;
+}
+
+.info__item {
+  margin-bottom: 15px;
+}
+
+.info__item h4 {
+  display: inline;
+  margin-right: 7px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.info__item span {
+  font-size: 15px;
+  font-weight: 300;
+  color: #484848;
+}

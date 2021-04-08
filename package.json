@@ -1,0 +1,21 @@
+{
+  "name": "crypteux",
+  "version": "1.0.0",
+  "description": "Contract testing framework for Campaign and CampaignFactory for crypteux web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sayan Mondal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^8.3.0",
+    "next-routes": "^1.4.2",
+    "solc": "^0.8.1",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.3.4"
+  }
+}
