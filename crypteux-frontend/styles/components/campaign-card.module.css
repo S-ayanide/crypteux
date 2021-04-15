@@ -1,0 +1,40 @@
+.card__root {
+  border-radius: 10px;
+  border: 1px solid lightgrey;
+}
+
+.card__root > .ant-card-head {
+  font-size: 24px;
+}
+
+.card__cover {
+  height: 35vh;
+  object-fit: cover;
+  padding: 2px;
+}
+
+.card__info {
+  height: 20vh;
+  overflow: hidden;
+}
+
+.card__info__item {
+  margin-bottom: 10px;
+}
+
+.card__info__item > h4 {
+  display: inline;
+  margin-right: 5px;
+}
+
+.card__info__sub {
+  color: #484848;
+}
+
+.card__info__image {
+  height: 2rem;
+  width: 2rem;
+  margin-left: 10px;
+  border-radius: 50%;
+  border: 1px solid grey;
+}

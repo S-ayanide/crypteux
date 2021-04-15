@@ -1,0 +1,28 @@
+.form__content {
+  background-color: white;
+  padding: 50px 50px;
+  border-radius: 10px;
+  border: 1px solid lightgrey;
+}
+
+.form__title {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.form__subtitle {
+  font-size: 15px;
+  color: #484848;
+  margin-bottom: 30px;
+}
+
+.image__container {
+  display: flex;
+  align-items: center;
+}
+
+.create__button {
+  background-color: #4663ac;
+  border-radius: 50px;
+  width: 200px;
+}

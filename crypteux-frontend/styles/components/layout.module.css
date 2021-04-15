@@ -1,0 +1,33 @@
+.discoverHeader {
+  height: 10vh;
+  background-color: #eff2f5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.discoverHeaderTitle {
+  color: #4663ac;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.branches__icon {
+  margin-right: 5px;
+}
+
+.discoverHeaderButtons {
+  color: #4663ac;
+  font-size: 20px;
+  font-weight: 500;
+  width: 20vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.discoverContent {
+  min-height: 100vh;
+  height: fit-content;
+  margin: 0px 20px;
+  padding: 50px 100px;
+}
