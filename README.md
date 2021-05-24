@@ -3,7 +3,7 @@
 An innovative approach to promote grassroots political engagement in the 21st century. Crypteux is a decentralized and transparent web application built using
 Ethereum Blockchain, Smart Contracts, Next.js, and Firebase.
 
-##Problems with the state of the art: Crowdfunding
+## Problems with the state of the art: Crowdfunding
 - As crowdfunding platforms gain popularity, the number of frauds and scams increases by the day, making potential donors and contributors skeptical and even drive them away. With no unbiased middle-man to keep organizer's accountable, the funds they raise can easily be spent incorrectly.
 - Another flaw in the existing system of raising money is that these platforms keep up to 5% of the crowdfunded money as profit for themselves and deduct another 5% in transactions fees.
 - Lastly, any centralized service allows free-will. As we have seen, large tech companies have been notorious in stepping in and censoring/removing content.
